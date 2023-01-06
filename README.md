@@ -6,4 +6,4 @@ The scope of this project was to sort a continuous stream of cylindrical parts o
 
 The project was logically separated into numerous milestones, with each being completed in a logical order of necessity. This allowed for swift identification of a problem, which could be independently addressed and corrected without affecting the entirety of the system.
 
-During the demonstration, the best performance achieved was a time of 34 seconds, while correctly sorting 47 out of 48 objects.
+During the demonstration, the performance achieved was a time of 37 seconds, while correctly sorting all 48 objects.
